@@ -31,7 +31,7 @@ Repositório feito para guardar uma coleção de exercícios resolvidos em Java,
 git clone https://github.com/annaelyoliveira/Codigos_em_Java.git
 
 # Acesse a pasta
-cd Coidos_em_Java
+cd Codigos_em_Java
 
 # Compile e execute o arquivo desejado:
 javac NomeDoArquivo.java
